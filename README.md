@@ -5,6 +5,6 @@ GBA Emulator is a free, online GBA emulator!
 # Original Website
 https://theclashman2.github.io/GBA-Emulator/
 # Fork Website 
-t-rexrunner.github.io/gba-emulator-fork/
+https://t-rexrunner.github.io/GBA-Emulator-Fork/
 # Credits
 TheClashMan2 
