@@ -11,6 +11,9 @@ h2 {
     color: white;
 }
 
-a {
-    color: white;
+
+
+a:link {
+  text-decoration: none;
+  color: lightgrey;
 }
