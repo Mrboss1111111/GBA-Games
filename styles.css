@@ -18,6 +18,10 @@ a:visited {
   color: yellow;
 }
 
+a:unvisited {
+  color: white;
+}
+
 a:hover {
   color: yellow;
 }
