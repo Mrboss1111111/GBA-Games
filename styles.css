@@ -10,6 +10,10 @@ h2 {
     color: white;
 }
 
+h3 {
+    color: white;
+}
+
 p {
     color: white;
 }
@@ -20,7 +24,7 @@ a:link {
 }
 
 a:visited {
-  color: yellow;
+  color: white;
 }
 
 a:unvisited {
